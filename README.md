@@ -1,6 +1,6 @@
 # azkar_app
+![1231](https://github.com/ahmedjarad0/flutter_azkar_app/assets/113943692/3e3d17ad-3ef1-4048-a69b-4ba45a0b7ce0)
 
-![Capture](https://github.com/ahmedjarad0/flutter_quiz_app/assets/113943692/3deca5b6-3ba1-4329-8a0f-1dc21407ab4a)
 
 Sqlite & Provider State management
 
