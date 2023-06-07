@@ -1,9 +1,5 @@
 # azkar_app
 
-![qqq](https://github.com/ahmedjarad0/flutter_azkar_app/assets/113943692/07cbcdc8-d419-4390-893b-5df50896c05b)
-
-
-Sqlite & Provider State management
 
 ## Getting Started
 
